@@ -19,8 +19,8 @@ Este repositorio está dedicado a mi aprendizaje de JavaScript desde cero. Aquí
 
 ```
 /
-├── algoritmos/          # Ejercicios y soluciones de algoritmos
 ├── fundamentos/         # Conceptos básicos y ejemplos prácticos
+├── algoritmos/          # Ejercicios y soluciones de algoritmos
 ├── proyectos/           # Proyectos pequeños y ejercicios aplicados
 └── README.md            # Este archivo
 ```
