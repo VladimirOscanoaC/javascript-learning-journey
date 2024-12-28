@@ -22,7 +22,8 @@ Los arrays son una de las estructuras de datos que almacenan una coleccón de el
 
 ### Declaración y creación de arrays
 
-1. **Forma Literal ( [ ] )**
+1. **Forma Literal `[]`**
+
    Es la forma más común y recomendada para crear arrays.
 
    ```javascript
@@ -240,8 +241,6 @@ console.log(eliminado); // "plátano"
 console.log(frutas); // ["uva", "manzana", "naranja"]
 ```
 
----
-
 ### Acceso y Modificación de Elementos
 
 #### Uso de índices
@@ -288,8 +287,6 @@ console.log(numeros); // [1, 10, 20, 5]
 numeros.splice(2, 0, 30);
 console.log(numeros); // [1, 10, 30, 20, 5]
 ```
-
----
 
 ### Crear Copias y Subarrays
 
